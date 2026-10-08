@@ -6,12 +6,14 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0992-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -30,4 +32,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0992-subarrays-with-k-different-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
