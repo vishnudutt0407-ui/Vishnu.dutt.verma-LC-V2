@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0713-subarray-product-less-than-k) |
@@ -12,6 +13,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0713-subarray-product-less-than-k) |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
