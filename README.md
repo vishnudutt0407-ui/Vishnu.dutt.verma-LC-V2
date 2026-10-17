@@ -36,4 +36,20 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
