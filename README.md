@@ -37,6 +37,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
@@ -45,6 +46,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -58,4 +60,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
