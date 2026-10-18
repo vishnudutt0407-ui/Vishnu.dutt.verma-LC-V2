@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
