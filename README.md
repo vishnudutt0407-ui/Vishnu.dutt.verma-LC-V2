@@ -45,11 +45,13 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -58,6 +60,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vishnudutt0407-ui/Vishnu.dutt.verma-LC-V2/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
